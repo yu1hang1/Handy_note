@@ -11,13 +11,27 @@
 
 ## DEMO实例
 
+---
+
 ###主页面
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/1.PNG)
+
+---
+
 ###注册页面
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/2.PNG)
+
+---
+
 ###登录页面
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/3.PNG)
+
+---
+
 ###Topics主页
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/4.PNG)
+
+---
+
 ###Entry主页
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/5.PNG)
