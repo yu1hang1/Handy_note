@@ -13,30 +13,30 @@
 
 ---
 
-* 1.主页面
+### 1.主页面
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/1.PNG)
 
 ---
 
-* 2.注册页面
+### 2.注册页面
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/2.PNG)
 
 ---
 
-* 3.登录页面
+### 3.登录页面
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/3.PNG)
 
 ---
 
-* 4.Topics主页
+### 4.Topics主页
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/4.PNG)
 
 ---
 
-* 5.Entry主页
+### 5.Entry主页
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/5.PNG)
