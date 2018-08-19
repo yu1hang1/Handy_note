@@ -13,10 +13,9 @@
 * [Python 2.7.13](https://www.python.org/downloads/)
 * [Django 1.11.1](https://www.djangoproject.com/)
 
-## DEMO
-
 ---
 
+## DEMO
 ### 1.主页面
 
 ![avatar](https://github.com/yu1hang1/Handy_note/blob/master/1.PNG)
