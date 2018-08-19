@@ -9,7 +9,11 @@
 
 ---
 
-## DEMO实例
+## Prerequisites
+* [Python 2.7.13](https://www.python.org/downloads/)
+* [Django 1.11.1](https://www.djangoproject.com/)
+
+## DEMO
 
 ---
 
